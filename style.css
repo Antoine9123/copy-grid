@@ -129,10 +129,6 @@ body {
   color: #ffa500;
 }
 
-.header-first-element hr {
-  border-color: #9f8585;
-  border-width: 2px;
-}
 
 .header-second-element {
   grid-column: 7 / span 6;
